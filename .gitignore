@@ -1,0 +1,13 @@
+# Generated files and local configuration
+[Bb]in/
+[Oo]bj/
+.vs/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
